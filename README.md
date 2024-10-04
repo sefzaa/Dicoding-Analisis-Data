@@ -15,5 +15,5 @@ streamlit run app.py
 
 ## Run steamlit cloud app
 ```
-https://sefzadicoding.streamlit.app/
+https://sefzaa-dicoding-analisis-data-app-fk40vc.streamlit.app/
 ```
